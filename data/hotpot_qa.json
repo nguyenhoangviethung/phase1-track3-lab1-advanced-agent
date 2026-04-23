@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University. He was a philologist and author."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England. It is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "hard",
+    "question": "What mountain range contains the highest peak in South America?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Aconcagua",
+        "text": "Aconcagua is the highest peak in South America. It is located in the Andes mountain range."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes is a mountain range in South America. It is the longest mountain range in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi. It is one of his most famous works."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist. He is known for The Four Seasons."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "hard",
+    "question": "What ocean is named after the explorer who led the first expedition to circumnavigate it?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christopher Columbus",
+        "text": "Christopher Columbus was an Italian explorer. In 1492 he sailed across what was later named the Atlantic Ocean."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is named after Atlas, a figure from Greek mythology. It is the second-largest ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "medium",
+    "question": "Which sea is named after the color of its water, and borders the countries where both Julius Caesar and Cleopatra ruled?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt. Egypt borders the Red Sea to the east."
+      },
+      {
+        "title": "Red Sea",
+        "text": "The Red Sea is a body of water between Africa and Asia. It is called the Red Sea due to occasional blooms of red algae."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "hard",
+    "question": "In what year did the person who invented the telephone patent their first telephone?",
+    "gold_answer": "1876",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is credited with inventing the telephone. He was born in Scotland."
+      },
+      {
+        "title": "First Telephone Patent",
+        "text": "The first telephone patent was filed in 1876. Alexander Graham Bell received U.S. Patent No. 174,465 for improvements in telephony."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "medium",
+    "question": "Who was the composer of a famous symphony that inspired the national anthem of a European country?",
+    "gold_answer": "Pyotr Ilyich Tchaikovsky",
+    "context": [
+      {
+        "title": "Russian National Anthem",
+        "text": "The Russian national anthem was composed by Alexandrov in 1944, but was based on themes from earlier Russian composers."
+      },
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a Russian composer. His 1812 Overture is famous and has influences on Russian culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England in 1815. She was a mathematician and writer."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England. It is crossed by the River Thames which flows through the city."
+      }
+    ]
+  }
+]
