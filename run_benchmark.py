@@ -4,6 +4,13 @@ from pathlib import Path
 import typer
 from rich import print
 from rich.progress import track
+
+# Auto-load .env file if it exists
+from dotenv import load_dotenv
+env_file = Path(__file__).parent / ".env"
+if env_file.exists():
+    load_dotenv(env_file)
+
 from src.reflexion_lab.agents import ReActAgent, ReflexionAgent
 from src.reflexion_lab.reporting import build_report, save_report
 from src.reflexion_lab.utils import load_dataset, save_jsonl

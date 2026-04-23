@@ -101,7 +101,7 @@ class BaseAgent:
                 score=judge.score,
                 reason=judge.reason,
                 token_estimate=token_estimate,
-                latency_ms=latency_ms,
+                latency_ms=int(latency_ms),  # Convert to int
             )
             final_answer = answer
             final_score = judge.score
